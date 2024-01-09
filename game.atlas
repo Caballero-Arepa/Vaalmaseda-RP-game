@@ -1,0 +1,27 @@
+
+game.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Inca Arepa
+  rotate: false
+  xy: 4, 112
+  size: 768, 768
+  orig: 768, 768
+  offset: 0, 0
+  index: -1
+NationIcons/China
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Pachamama
+  rotate: false
+  xy: 780, 780
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

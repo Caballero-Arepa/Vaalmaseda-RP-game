@@ -1,5 +1,1 @@
-{
-  "uniques":["Can trade civilization introductions for [100] Gold"],
-  "constants":{"maxXPfromBarbarians":60,
-  }
-}
+{"lastUpdated":"2024-01-09T00:21:53Z","modUrl":"https://github.com/Caballero-Arepa/Vaalmaseda-RP-game","defaultBranch":"main","author":"Caballero-Arepa","topics":["unciv-mod"],"uniques":["Can trade civilization introductions for [100] Gold"],"constants":{"maxXPfromBarbarians":60,"unitUpgradeCost":{}}}

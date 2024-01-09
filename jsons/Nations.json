@@ -1012,8 +1012,8 @@
 		"tradeRequest": "Friend, I believe I may have found a way to save us all! Look, look and accept my offering!",
 
 		"neutralHello": "A fine day, it helps you.",
-		"outerColor": [198, 141, 99],
-		"innerColor": [24, 63, 66],
+		"outerColor": [81, 24, 94],
+		"innerColor": [198, 141, 99],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Long Count",
 		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
