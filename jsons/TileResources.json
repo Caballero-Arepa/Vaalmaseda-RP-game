@@ -1,7 +1,16 @@
 [
-  {
-		"name": "English Embassy",
-		"resourceType": "Strategic",
-		"uniques": ["Stockpiled","Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
-  }
+  
+	{
+		"name": "Dragon Egg",
+		"resourceType": "Luxury",
+		"revealedBy": "Chivalry",
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Desert","Tundra","Snow","Hill","Marsh","Dragon Peak"],
+		"faith": 2,
+		"improvement": "Quarry",
+		"improvementStats": {"gold": 1, "culture": 1},
+		"uniques": ["Guaranteed with Strategic Balance resource option"],
+		"civilopediaText": [
+			{"text": "Large oval bounders, commonly believed to be eggs of an ancient dragon race. No one knows a way to hatch them though, all it does is increase peoples beliefs in myths and fantasies."}
+		]
+	}
 ]

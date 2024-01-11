@@ -1,0 +1,7 @@
+{
+    "useColorAsBaseTerrain": "false",
+    "fallbackTileSet": "FantasyHex",
+    "ruleVariants": {
+	"Mountain+Dragon Peak": ["Dragon Peak"],
+	}
+}
