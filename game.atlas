@@ -6,70 +6,84 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 LeaderIcons/Basil the Restorer
   rotate: false
-  xy: 4, 952
+  xy: 4, 988
   size: 1024, 1024
   orig: 1024, 1024
   offset: 0, 0
   index: -1
 LeaderIcons/Inca Arepa
   rotate: false
-  xy: 4, 176
+  xy: 4, 212
   size: 768, 768
   orig: 768, 768
   offset: 0, 0
   index: -1
+LeaderIcons/Radulfr
+  rotate: false
+  xy: 1036, 1058
+  size: 473, 473
+  orig: 473, 473
+  offset: 0, 0
+  index: -1
 NationIcons/Byzantium
   rotate: false
-  xy: 1036, 1776
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/China
   rotate: false
-  xy: 4, 68
+  xy: 780, 880
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/England
+  rotate: false
+  xy: 1036, 1539
+  size: 562, 473
+  orig: 562, 473
+  offset: 0, 0
+  index: -1
 ReligionIcons/Eastern Orthodoxy
   rotate: false
-  xy: 780, 844
+  xy: 1606, 1912
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Pachamama
   rotate: false
-  xy: 1036, 1668
+  xy: 212, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Dragon Peak
   rotate: false
-  xy: 112, 132
+  xy: 780, 836
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mount Dragonjaw
   rotate: false
-  xy: 780, 800
+  xy: 888, 944
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Dragon Peak
   rotate: false
-  xy: 1244, 1920
+  xy: 1036, 994
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mount Dragonjaw
   rotate: false
-  xy: 4, 4
+  xy: 1517, 1475
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
