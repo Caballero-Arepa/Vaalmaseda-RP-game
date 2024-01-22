@@ -8,7 +8,7 @@
     {
         "name": "Bless the Fields",
         "type": "Pantheon",
-        "uniques": ["[+1 Production] from every [Cattle]","[+1 Faith] from every [Wheat]","[+1 Food] from every [Corn]"]
+        "uniques": ["[+1 Production] from every [Cattle]","[+1 Faith] from every [Wheat]"]
     },
     {
         "name": "Dance of the Aurora",
@@ -24,11 +24,6 @@
         "name": "Earth Mother",
         "type": "Pantheon",
         "uniques": ["[+1 Faith] from every [Salt]","[+1 Faith] from every [Copper]","[+1 Faith] from every [Iron]","[+1 Faith] from every [Coal]"]
-    },
-    {
-        "name": "Exquisite Feasts",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Happiness] from every [Octopus]", "[+1 Culture, +1 Happiness] from every [Truffles]"]
     },
     {
         "name": "Faith Healers",
@@ -68,7 +63,7 @@
     {
         "name": "Goddess of Festivals",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Wine]", "[+1 Culture, +1 Faith] from every [Incense]", "[+1 Culture, +1 Faith] from every [Oils]"]
+        "uniques": ["[+1 Culture, +1 Faith] from every [Wine]", "[+1 Culture, +1 Faith] from every [Incense]"]
     },
     {
         "name": "Goddess of Love",
@@ -131,11 +126,6 @@
         "uniques": ["[-15]% Culture cost of natural border growth [in cities following this religion]"]
     },
     {
-        "name": "Rural Heritage",
-        "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Pigs]","[+1 Faith] from every [Pumpkins]","[+1 Happiness] from every [Watermelons]"]
-    },
-    {
         "name": "Sacred Path",
         "type": "Pantheon",
         "uniques": ["[+1 Culture] from every [Jungle]"]
@@ -143,7 +133,7 @@
     {
         "name": "Sacred Spices",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Chilis]", "[+1 Culture, +1 Faith] from every [Spices]"]
+        "uniques": ["[+1 Culture, +1 Faith] from every [Spices]"]
     },
     {
         "name": "Sacred Waters",
@@ -158,12 +148,7 @@
     {
         "name": "Sun God",
         "type": "Pantheon",
-        "uniques": ["[+1 Food] from every [Bananas]","[+1 Food] from every [Citrus]","[+1 Food] from every [Coconuts]","[+1 Food] from every [Mango]"]
-    },
-    {
-        "name": "Tale of the Birds",
-        "type": "Pantheon",
-        "uniques": ["[+2 Faith, +1 Culture] from every [Aviary]","[+1 Faith] from every [Chickens]","[+1 Faith] from every [Turkey]"]
+        "uniques": ["[+1 Food] from every [Bananas]","[+1 Food] from every [Citrus]"]
     },
     {
         "name": "Tears of the Gods",
