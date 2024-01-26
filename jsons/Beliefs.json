@@ -148,7 +148,7 @@
     {
         "name": "Sun God",
         "type": "Pantheon",
-        "uniques": ["[+1 Food] from every [Bananas]","[+1 Food] from every [Citrus]"]
+        "uniques": ["[+1 Food] from every [Bananas]","[+1 Food] from every [Citrus]","[+1 Food] from every [Wheat]"]
     },
     {
         "name": "Tears of the Gods",
