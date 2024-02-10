@@ -38,7 +38,7 @@
     },
 	{
 		"name": "Egypt",
-		"leaderName": "Ramesses II",
+		"leaderName": "Ramesses",
 		"adjective": ["Egyptian"],
 		"startBias": ["Avoid [Jungle]","Avoid [Forest]"],
 		"preferredVictoryType": "Cultural",
@@ -47,17 +47,17 @@
         "startIntroPart2": "",
 
 		"declaringWar": "You are but a pest on this Earth, prepare to be eliminated!",
-		"attacked": "You are a fool who evokes pity. You have brought my hostility upon yourself and your repulsive civilization!",
+		"attacked": "You are a fool who evokes pity. You have brought my hostility upon yourself and your pitiful people.",
 		"defeated": "Strike me down and my soul will torment yours forever, you have won nothing.",
-		"introduction": "Greetings, I am Ramesses the god. I am the living embodiment of Egypt, mother and father of all civilizations.",
+		"introduction": "Greetings, I am Ramesses the king of Egypt. I am the representative and guardian of my people.",
 
-		"neutralHello": "Good day.",
-		"hateHello": "Oh, it's you.",
+		"neutralHello": "Greetings.",
+		"hateHello": "State your business.",
 
-		"tradeRequest": "Generous Egypt makes you this offer.",
+		"tradeRequest": "This will benefit both of us.",
 
-		"outerColor": [255, 252, 3],
-		"innerColor": [83, 0, 208],
+		"outerColor": [39,126,205],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
 		"uniqueName": "Monument Builders",
 		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
