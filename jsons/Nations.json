@@ -1,6 +1,5 @@
 [
 	//Spectator
-    //Not "Excluded from map editor" as it serves as placeholder for "Any Civ" starting locations
 	{
 		"name": "Spectator",
 		"outerColor": [255,255,255],
@@ -60,7 +59,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
 		"uniqueName": "Monument Builders",
-		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
+		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]","Traditional Kingdom"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
@@ -89,7 +88,7 @@
 		"innerColor": [243, 218, 63],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Sun Never Sets",
-		"uniques": ["[+2] Movement <for [Water] units>", "Instantly provides [100] [English Embassy] <upon discovering [Guilds]> <hidden from users>"],
+		"uniques": ["[+2] Movement <for [Water] units>", "Raider"],
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
@@ -174,7 +173,7 @@
 		"innerColor": [249, 247, 3],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Nobel Prize",
-		"uniques": ["Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation"],
+		"uniques": ["Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation","Peaceful - Scientific"],
 		"cities": ["Stockholm","Uppsala","Gothenburg","Malmö","Linköping","Kalmar","Skara","Västerås","Jönköping",
             "Visby","Falun","Norrköping","Gävle","Halmstad","Karlskrona","Hudiksvall","Örebro","Umeå","Karlstad",
             "Helsingborg","Härnösand","Vadstena","Lund","Västervik","Enköping","Skövde","Eskilstuna","Luleå","Lidköping",
@@ -201,7 +200,7 @@
         "innerColor": [255, 222, 176],
 		"favoredReligion": "Eastern Orthodoxy",
 		"uniqueName": "Patriarchate of Constantinople",
-		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion"],
+		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion","Religious Expantionist"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
