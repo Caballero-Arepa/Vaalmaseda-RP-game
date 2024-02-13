@@ -1,64 +1,53 @@
 [
-
+	// Unique Choices
 	{
-		"name": "Farm",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
-		"food": 1,
-		"turnsToBuild": 7,
-		"techRequired": "Enlightenment",
-		"uniques": ["Can also be built on tiles adjacent to fresh water",
-            "Pillaging this improvement yields approximately [+18 Gold]"],
-		"shortcutKey": "F"
-	},
-        {
-		"name": "Road",
+		"name": "UI 1",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"turnsToBuild": 2,
-		"techRequired": "Enlightenment",
-		"uniques": ["Can be built outside your borders", "Costs [1] [Gold] per turn <after discovering [Combustion Engine]>","Costs [1] [Gold] per turn <after discovering [The Future]>"],
-		"shortcutKey": "R",
-        "civilopediaText": [
-            {"text":"Reduces movement cost to ½ if the other tile also has a Road or Railroad"},
-            {"text":"Reduces movement cost to ⅓ with Machinery", "link":"Technology/Machinery"},
-            {"text":"Requires Engineering to bridge rivers", "link":"Technology/Engineering"}
-        ]
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
 	},
 	{
-		"name": "Railroad",
+		"name": "UI 2",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"turnsToBuild": 4,
-		"techRequired": "Railroads",
-		"uniques": ["Can be built outside your borders", "Costs [2] [Gold] per turn"],
-		"shortcutKey": "R",
-        "civilopediaText": [{"text":"Reduces movement cost to ⅒ if the other tile also has a Railroad"}]
-	},
-	// Unbuildable improvements
-	{
-		"name": "Ancient ruins",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable"]
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
 	},
 	{
-		"name": "City ruins",
+		"name": "UI 3",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Unpillagable", "Unbuildable"],
-        "civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War"}]
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
 	},
 	{
-		"name": "City center",
+		"name": "UI 4",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["[+1 Culture] for each adjacent [Mountain]","[+1 Happiness, +1 Gold, +1 Culture] for each adjacent [Natural Wonder]",
-					"[+1 Gold, +1 Culture] <on foreign continents>",
-					"Unpillagable", "Irremovable", "Unbuildable"],
-        "civilopediaText": [
-			{"text":"Marks the center of a city"},
-			{"text":"Appearance changes with the technological era of the owning civilization"}
-		]
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
 	},
 	{
-		"name": "Barbarian encampment",
+		"name": "UI 5",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Unpillagable", "Unbuildable"],
-        "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
-	}
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+	},
+	{
+		"name": "UI 6",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+	},
+	{
+		"name": "UI 7",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+	},
+	{
+		"name": "UI 8",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+	},
+	{
+		"name": "UI 9",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+	},
+	{
+		"name": "UI 10",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+	},
 ]
