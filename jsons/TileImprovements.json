@@ -1,4 +1,11 @@
 [
+	{
+		"name": "Remove Fallout",
+		"turnsToBuild": 4,
+		"techRequired": "Chemistry",
+		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
+		"shortcutKey": "X"
+	},
 	// Unique Choices
 	{
 		"name": "UI 1",
