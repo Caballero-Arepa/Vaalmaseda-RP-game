@@ -202,7 +202,8 @@
         "innerColor": [255, 222, 176],
 		"favoredReligion": "Eastern Orthodoxy",
 		"uniqueName": "Patriarchate of Constantinople",
-		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion","Religious Expantionist"],
+		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion",
+			"Holy State"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
