@@ -309,18 +309,54 @@
 			"Only available <for [Peaceful - Diplomatic]> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
+	{
+		"name": "Isolationist",
+		"cost": 0,
+		"uniques": [
+			"[+20]% [Culture] <when not at war>",
+			"[+20]% <for [Melee] units> <when above [1] [Happiness]> <when fighting in [your] tiles>",
+			"[-1 Gold, -1 Culture, -1 Happiness, +1 Science] from every [Embassy]", //Embassy bonus
+			"[+25]% of excess happiness converted to [Faith]", //Peaceful bonus happiness
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
+			"Only available <for [Isolationist]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Destroyed when the city is captured","Classification"],
+	},
 	//Religious
 	{
 		"name": "Religious Expantionist",
 		"cost": 0,
 		"uniques": [
-			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
 			"Religion naturally spreads to cities [1] tiles away",
 			"May buy [Settler] units for [100] [Faith] [in holy cities] at an increasing price ([50])",
 			"[+1 Faith] from every [Temple] <starting from the [Medieval era]>",
 			"[+1 Gold, +1 Culture] from each Trade Route",
 			"[+1 Gold, +1 Faith] from every [Embassy]", //Embassy bonus
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
 			"Only available <for [Religious Expantionist]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Destroyed when the city is captured","Classification"],
+	},
+	{
+		"name": "Theocracy",
+		"cost": 0,
+		"uniques": [
+			"When declaring friendship, both parties gain a [15]% boost to great person generation", //peaceful interaction bonus
+			"Resting point for Influence with City-States is increased by [15]",
+			"[+1 Gold, +1 Culture, +1 Happiness] from every [Embassy]", //Embassy bonus
+			"[+25]% of excess happiness converted to [Gold]", //Peaceful bonus happiness
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
+			"Only available <for [Theocracy]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Destroyed when the city is captured","Classification"],
+	},
+	{
+		"name": "Holy State",
+		"cost": 0,
+		"uniques": [
+			"When declaring friendship, both parties gain a [15]% boost to great person generation", //peaceful interaction bonus
+			"Resting point for Influence with City-States is increased by [15]",
+			"[+1 Gold, +1 Culture, +1 Happiness] from every [Embassy]", //Embassy bonus
+			"[+25]% of excess happiness converted to [Gold]", //Peaceful bonus happiness
+			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
+			"Only available <for [Holy State]> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	//Unpeacefuls
