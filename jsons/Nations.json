@@ -22,7 +22,7 @@
 		
 		"uniqueName": "Patriarchate of Constantinople",
 		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion",
-			"Holy State <hidden from users>"],
+			"Holy State"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
@@ -47,7 +47,7 @@
 		
 		"uniqueName": "Art of War",
 		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster",
-			"Isolationist <hidden from users>"],
+			"Isolationist"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
@@ -74,7 +74,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Monument Builders",
 		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]",
-			"Traditional Kingdom <hidden from users>"],
+			"Traditional Kingdom"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
@@ -100,7 +100,7 @@
 		
 		"uniqueName": "Sun Never Sets",
 		"uniques": ["[+2] Movement <for [Water] units>", 
-			"Raider <hidden from users>"],
+			"Raider"],
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
@@ -126,7 +126,7 @@
 		
 		"uniqueName": "Scholars of the Jade Hall",
         	"uniques": ["[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital",
-		"Peaceful - Scientific <hidden from users>"],
+		"Peaceful - Scientific"],
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"],
@@ -150,7 +150,7 @@
 		"uniqueName": "The Long Count",
 		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
 			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
-			"Theocracy <hidden from users>"],
+			"Theocracy"],
 		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
 			"Edzna","Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua",
 			"Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal",
@@ -175,7 +175,7 @@
 		
 		"uniqueName": "River Warlord",
 		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "Defense bonus when embarked <for [All] units>", "[{Military} {Land}] units gain the [Amphibious] promotion",
-			"Peaceful - Scientific <hidden from users>"],
+			"Peaceful - Scientific"],
 		"cities": ["Gao","Tombouctu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
 			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
 			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"],
@@ -201,7 +201,7 @@
 		
 		"uniqueName": "Nobel Prize",
 		"uniques": ["Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation",
-			"Peaceful - Scientific <hidden from users>"],
+			"Peaceful - Scientific"],
 		"cities": ["Stockholm","Uppsala","Gothenburg","Malmö","Linköping","Kalmar","Skara","Västerås","Jönköping",
             "Visby","Falun","Norrköping","Gävle","Halmstad","Karlskrona","Hudiksvall","Örebro","Umeå","Karlstad",
             "Helsingborg","Härnösand","Vadstena","Lund","Västervik","Enköping","Skövde","Eskilstuna","Luleå","Lidköping",
