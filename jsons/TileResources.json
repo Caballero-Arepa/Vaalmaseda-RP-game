@@ -12,5 +12,61 @@
 		"civilopediaText": [
 			{"text": "Large oval bounders, commonly believed to be eggs of an ancient dragon race. No one knows a way to hatch them though, all it does is increase peoples beliefs in myths and fantasies."}
 		]
-	}
+	},
+	//Unique choices
+  	{
+		"name": "UR",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  	},
+  	{
+		"name": "UR 1",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  	},
+  	{
+		"name": "UR 2",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  	},
+  	{
+		"name": "UR 3",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  	},
+  	{
+		"name": "UR 4",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  	},
+  	{
+		"name": "UR 5",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  	},
+  	{
+		"name": "UR 6",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  	},
+  	{
+		"name": "UR 7",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  	},
+  	{
+		"name": "UR 8",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  	},
+  	{
+		"name": "UR 9",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  	},
+  	{
+		"name": "UR 10",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen","Excluded from map editor","Will not be displayed in Civilopedia"]
+  	},
 ]

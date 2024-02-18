@@ -1,21 +1,40 @@
 [
 	//Spectator
-    //Not "Excluded from map editor" as it serves as placeholder for "Any Civ" starting locations
 	{
 		"name": "Spectator",
 		"outerColor": [255,255,255],
 //		"innerColor": [255,255,255]
 	},
 	{
+		"name": "Byzantium",
+		"leaderName": "Basil the Restorer",
+		"startBias": ["Coast"],
+		
+        	"declaringWar": "Start hearing the voice of the true God, or I will grind you to dust, infidel.",
+        	"attacked": "The God decided to test me and I am not going to fail. Prepare to face the ferocity of Rome!",
+        	"defeated": "The God has abandoned me just when I needed Him the most.",
+        	"introduction": "As all roads lead to Constantinople, You were bound to discover the Roman Empire, I am Basil the Restorer, Chosen by the God, emperor of Rome. I hope our relations will only improve from now on.",
+        	"neutralHello": "Hello.",
+        	"tradeRequest": "Show me what you got and I will show you what I can offer.",
+		
+		"outerColor": [25, 4, 61],
+        	"innerColor": [255, 222, 176],
+		
+		"uniqueName": "Patriarchate of Constantinople",
+		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion",
+			"Holy State <hidden from users>"],
+
+		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
+			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
+			"Tyana", "Gaza", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
+			"Patra", "Korinthos"],
+        "spyNames": ["Basil", "Nikophoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"]
+    },
+	{
 		"name": "China",
 		"leaderName": "Tang Taizong",
-		"adjective": ["Chinese"],
-		"preferredVictoryType": "Scientific",
 
-        "startIntroPart1": "",
-        "startIntroPart2": "",
-
-        "declaringWar": "You won't ever be able to bother me again. Go meet Yama.",
+        	"declaringWar": "You won't ever be able to bother me again. Go meet Yama.",
 		"attacked": "Fool! I will disembowel you all!",
 		"defeated": "You have proven to be a cunning and competent adversary. I congratulate you on your victory.",
 		"introduction": "Greetings, I am Empress Wu Zetian. China desires peace and development. You leave us alone, we'll leave you alone.",
@@ -23,12 +42,12 @@
 		"hateHello": "Oh. It's you?",
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-        "outerColor": [9, 112, 84],
-        "innerColor": [255,255,255],
-
-		"favoredReligion": "Taoism",
+        	"outerColor": [9, 112, 84],
+        	"innerColor": [255,255,255],
+		
 		"uniqueName": "Art of War",
-		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"],
+		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster",
+			"Isolationist <hidden from users>"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
@@ -39,12 +58,7 @@
 	{
 		"name": "Egypt",
 		"leaderName": "Ramesses",
-		"adjective": ["Egyptian"],
 		"startBias": ["Avoid [Jungle]","Avoid [Forest]"],
-		"preferredVictoryType": "Cultural",
-
-        "startIntroPart1": "",
-        "startIntroPart2": "",
 
 		"declaringWar": "You are but a pest on this Earth, prepare to be eliminated!",
 		"attacked": "You are a fool who evokes pity. You have brought my hostility upon yourself and your pitiful people.",
@@ -58,9 +72,9 @@
 
 		"outerColor": [39,126,205],
 		"innerColor": [255,255,255],
-		"favoredReligion": "Islam",
 		"uniqueName": "Monument Builders",
-		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
+		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]",
+			"Traditional Kingdom <hidden from users>"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
@@ -71,25 +85,22 @@
 	{
 		"name": "England",
 		"leaderName": "Radulfr",
-		"adjective": ["English"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Diplomatic",
 
-        "startIntroPart1": "",
-        "startIntroPart2": "",
-
-        "declaringWar": "By the grace of God, your days are numbered.",
+        	"declaringWar": "By the grace of God, your days are numbered.",
 		"attacked": "We shall never surrender.",
 		"defeated": "You have triumphed over us. The day is yours.",
 		"introduction": "We are pleased to meet you.",
 		"neutralHello": "Hello, again.",
 		"hateHello": "Oh, it's you!",
 		"tradeRequest": "Would you be interested in a trade agreement with England?",
+		
 		"outerColor": [81, 165, 132],
 		"innerColor": [243, 218, 63],
-		"favoredReligion": "Christianity",
+		
 		"uniqueName": "Sun Never Sets",
-		"uniques": ["[+2] Movement <for [Water] units>", "Instantly provides [100] [English Embassy] <upon discovering [Guilds]> <hidden from users>"],
+		"uniques": ["[+2] Movement <for [Water] units>", 
+			"Raider <hidden from users>"],
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
@@ -99,14 +110,9 @@
 	{
 		"name": "Korea",
 		"leaderName": "Sejong",
-		"adjective": ["Korean"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Scientific",
 
-        "startIntroPart1": "",
-        "startIntroPart2": "",
-
-        "declaringWar": "Jip-hyun-jun (Hall of Worthies) will no longer tolerate your irksome behavior. We will liberate the citizens under your oppression even with force, and enlighten them!",
+        	"declaringWar": "Jip-hyun-jun (Hall of Worthies) will no longer tolerate your irksome behavior. We will liberate the citizens under your oppression even with force, and enlighten them!",
 		"attacked": "Foolish, miserable wretch! You will be crushed by this country's magnificent scientific power!",
 		"defeated": "Now the question is who will protect my people. A dark age has come.",
 		"introduction": "Welcome to the palace of Choson, stranger. I am the learned King Sejong, who looks after his great people.",
@@ -114,38 +120,62 @@
 		"neutralHello": "Hello.",
 		"hateHello": "Oh, it's you",
 		"tradeRequest": "We have many things to discuss and have much to benefit from each other.",
+		
 		"outerColor": [27,33,96],
 		"innerColor": [255,0,0],
-		"favoredReligion": "Confucianism",
+		
 		"uniqueName": "Scholars of the Jade Hall",
-        "uniques": ["[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital"],
+        	"uniques": ["[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital",
+		"Peaceful - Scientific <hidden from users>"],
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"],
         "spyNames": ["Kim", "Park", "Han", "Na", "Kong", "Yu", "Ahn", "Da", "Eun"]
     },
 	{
+		"name": "The Maya",
+		"leaderName": "Pacal",
+		"startBias": ["Jungle"],
+
+        	"declaringWar": "A sacrifice unlike all others must be made!",
+		"attacked": "Muahahahahahaha!",
+		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
+		"introduction": "Greetings, wayward one. I am known as Pacal.",
+		"tradeRequest": "Friend, I believe I may have found a way to save us all! Look, look and accept my offering!",
+		"neutralHello": "A fine day, it helps you.",
+		
+		"outerColor": [81, 24, 94],
+		"innerColor": [198, 141, 99],
+		
+		"uniqueName": "The Long Count",
+		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
+			"Theocracy <hidden from users>"],
+		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
+			"Edzna","Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua",
+			"Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal",
+			"Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"],
+        "spyNames": ["Camazotz", "Coyopa", "Gukumatz", "Hunahpu", "Huracan", "Ixchel", "Ixtab", "Kukulkán", "Xbalanque", "Zipacna"]
+    },
+	{
 		"name": "Songhai",
 		"leaderName": "Askia",
-		"adjective": ["Songhai"],
 		"startBias": ["Avoid [Tundra]"],
-		"preferredVictoryType": "Domination",
 
-        "startIntroPart1": "",
-        "startIntroPart2": "",
-
-        "declaringWar": "You are an abomination to heaven and earth, the chief of ignorant savages! You must be destroyed!",
+        	"declaringWar": "You are an abomination to heaven and earth, the chief of ignorant savages! You must be destroyed!",
 		"attacked": "Fool! You have doomed your people to fire and destruction!",
 		"defeated": "We have been consumed by the fires of hatred and rage. Enjoy your victory in this world - you shall pay a heavy price in the next!",
 		"introduction": "I am Askia of the Songhai. We are a fair people - but those who cross us will find only destruction. You would do well to avoid repeating the mistakes others have made in the past.",
 		"neutralHello": "Greetings.",
 		"hateHello": "Oh, it's you.",
 		"tradeRequest": "Can I interest you in this deal?",
+		
 		"outerColor": [214, 145, 19],
 		"innerColor": [90, 0, 10],
-		"favoredReligion": "Islam",
+		
 		"uniqueName": "River Warlord",
-		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "Defense bonus when embarked <for [All] units>", "[{Military} {Land}] units gain the [Amphibious] promotion"],
+		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "Defense bonus when embarked <for [All] units>", "[{Military} {Land}] units gain the [Amphibious] promotion",
+			"Peaceful - Scientific <hidden from users>"],
 		"cities": ["Gao","Tombouctu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
 			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
 			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"],
@@ -153,16 +183,11 @@
     },
 
 	{
-	    "name": "Sweden",
+	    	"name": "Sweden",
 		"leaderName": "Gustavus Adolphus",
-		"adjective": ["Swedish"],
 		"startBias": ["Tundra"],
-		"preferredVictoryType": "Diplomatic",
 
-        "startIntroPart1": "",
-        "startIntroPart2": "",
-
-        "declaringWar": "The Hakkapeliittas will ride again and your men will fall just at the sight of my cavalry! God with us!",
+        	"declaringWar": "The Hakkapeliittas will ride again and your men will fall just at the sight of my cavalry! God with us!",
 		"attacked": "Ha ha ha, captain Gars will be very glad to head out to war again.",
 		"defeated": "I am Sweden's king. You can take my lands, my people, my kingdom, but you will never reach the House of Vasa.",
 		"introduction": "Stranger, welcome to the Snow King's kingdom! I am Gustavus Adolphus, member of the esteemed House of Vasa",
@@ -170,11 +195,13 @@
 		"neutralHello": "Oh, welcome!",
 		"hateHello": "Oh, it is you.",
 		"tradeRequest": "My friend, it is my belief that this settlement can benefit both our peoples.",
-        "outerColor": [8, 8, 166],
+		
+        	"outerColor": [8, 8, 166],
 		"innerColor": [249, 247, 3],
-		"favoredReligion": "Christianity",
+		
 		"uniqueName": "Nobel Prize",
-		"uniques": ["Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation"],
+		"uniques": ["Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation",
+			"Peaceful - Scientific <hidden from users>"],
 		"cities": ["Stockholm","Uppsala","Gothenburg","Malmö","Linköping","Kalmar","Skara","Västerås","Jönköping",
             "Visby","Falun","Norrköping","Gävle","Halmstad","Karlskrona","Hudiksvall","Örebro","Umeå","Karlstad",
             "Helsingborg","Härnösand","Vadstena","Lund","Västervik","Enköping","Skövde","Eskilstuna","Luleå","Lidköping",
@@ -182,62 +209,6 @@
             "Kiruna","Borgholm","Strängnäs","Sveg"
         ],
         "spyNames": ["Leif", "Ingegard", "Sören", "Ragnhild", "Lars", "Lina", "Herr Grå", "Magnus", "Vilma", "Kusin"]
-    },
-	{
-		"name": "Byzantium",
-		"leaderName": "Basil the Restorer",
-		"adjective": ["Byzantine"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Cultural",
-
-        "declaringWar": "Start hearing the voice of the true God, or I will grind you to dust, infidel.",
-        "attacked": "The God decided to test me and I am not going to fail. Prepare to face the ferocity of Rome!",
-        "defeated": "The God has abandoned me just when I needed Him the most.",
-        "introduction": "As all roads lead to Constantinople, You were bound to discover the Roman Empire, I am Basil the Restorer, Chosen by the God, emperor of Rome. I hope our relations will only improve from now on.",
-        "neutralHello": "Hello.",
-        "tradeRequest": "Show me what you got and I will show you what I can offer.",
-		
-		"outerColor": [25, 4, 61],
-        "innerColor": [255, 222, 176],
-		"favoredReligion": "Eastern Orthodoxy",
-		"uniqueName": "Patriarchate of Constantinople",
-		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion"],
-
-		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
-			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
-			"Tyana", "Gaza", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
-			"Patra", "Korinthos"],
-        "spyNames": ["Basil", "Nikophoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"]
-    },
-	{
-		"name": "The Maya",
-		"leaderName": "Pacal",
-		"adjective": ["mayan"],
-		"startBias": ["Jungle"],
-		"preferredVictoryType": "Scientific",
-
-        "startIntroPart1": "",
-        "startIntroPart2": "",
-
-        "declaringWar": "A sacrifice unlike all others must be made!",
-		"attacked": "Muahahahahahaha!",
-		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
-		"introduction": "Greetings, wayward one. I am known as Pacal.",
-		"tradeRequest": "Friend, I believe I may have found a way to save us all! Look, look and accept my offering!",
-
-		"neutralHello": "A fine day, it helps you.",
-		"outerColor": [81, 24, 94],
-		"innerColor": [198, 141, 99],
-		"favoredReligion": "Christianity",
-		"uniqueName": "The Long Count",
-		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
-			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."],
- 		// Parameters: tech, comment, amount, comment. Compare "Free [Great General] appears" as used by policies
-		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
-			"Edzna","Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua",
-			"Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal",
-			"Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"],
-        "spyNames": ["Camazotz", "Coyopa", "Gukumatz", "Hunahpu", "Huracan", "Ixchel", "Ixtab", "Kukulkán", "Xbalanque", "Zipacna"]
     },
 
 
@@ -258,7 +229,7 @@
 	},
 	{
 		"name": "Bamboo",
-		"adjective": ["Bambooooooo"],
+		"adjective": ["Guadua"],
 		"cityStateType": "Militaristic",
 
 		"declaringWar": "Now you shall fear the stick of punishment!",

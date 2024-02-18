@@ -1,0 +1,60 @@
+[
+	{
+		"name": "Remove Fallout",
+		"turnsToBuild": 4,
+		"techRequired": "Chemistry",
+		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
+		"shortcutKey": "X"
+	},
+	// Unique Choices
+	{
+		"name": "UI 1",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+	},
+	{
+		"name": "UI 2",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+	},
+	{
+		"name": "UI 3",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+	},
+	{
+		"name": "UI 4",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+	},
+	{
+		"name": "UI 5",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+	},
+	{
+		"name": "UI 6",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+	},
+	{
+		"name": "UI 7",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+	},
+	{
+		"name": "UI 8",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+	},
+	{
+		"name": "UI 9",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+	},
+	{
+		"name": "UI 10",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Will not be displayed in Civilopedia", "Unbuildable"]
+	},
+]
