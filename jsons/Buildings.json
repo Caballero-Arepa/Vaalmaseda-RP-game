@@ -1,28 +1,43 @@
 [
 	//Unique choices
 	{
-		"name": "UB 1", //rename to: 
-		"cost": 0,
-		"uniqueTo": "Spectator",
-		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+		"name": "UB 1", //rename to: Bay Beacons
+		"uniqueTo": "Songhai",
+		"replaces": "Lighthouse",
+		"cost": 75,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
+			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]",
+			"Will not be displayed in Civilopedia"],
+		"requiredTech": "Optics"
 	},
 	{
-		"name": "UB 2", //rename to: 
-		"cost": 0,
-		"uniqueTo": "Spectator",
-		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+		"name": "UB 2", //rename to: Sacred Waters
+		"replaces": "Water Mill",
+		"uniqueTo": "The Maya",
+		"food": 2,
+		"production": 1,
+		"uniques": ["[+10]% [Faith] [in this city]", "Must be next to [Fresh water]",
+			"Will not be displayed in Civilopedia"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"percentStatBonus": {"food": 15},
+		"requiredTech": "The Wheel"
 	},
 	{
-		"name": "UB 3", //rename to: 
-		"cost": 0,
-		"uniqueTo": "Spectator",
-		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+		"name": "UB 3", //rename to: Blessing from the Lord
+		"uniqueTo": "China",
+		"replaces": "Granary",
+		"food": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]",
+			"[+1 Faith] from [Farm] tiles [in this city] <in [Desert] tiles>",
+			"Will not be displayed in Civilopedia"],
+		"requiredTech": "Pottery"
 	},
 	{
 		"name": "UB 4", //rename to: 

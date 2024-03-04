@@ -38,26 +38,31 @@
 	},
 	//Unique choices
 	{
-		"name": "UU 1",
-		"unitType": "Scout",
-		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
+		"name": "UU 1", //Dark Voyager
+		"uniqueTo": "England",
+		"replaces": "Trireme",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 10,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Can transform to [Settler]",
+			"Cannot enter ocean tiles","Will not be displayed in Civilopedia"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "UU 2",
-		"unitType": "Scout",
-		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
-		"attackSound": "nonmetalhit"
+		"replaces": "Settler",
+		"uniqueTo": "Korea",
+		"unitType": "Civilian",
+		"movement": 3,
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population",
+			"Will not be displayed in Civilopedia"],
+		"hurryCostModifier": 20
 	},
 	{
 		"name": "UU 3",
