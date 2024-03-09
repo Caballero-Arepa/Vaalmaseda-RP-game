@@ -21,7 +21,9 @@
         	"innerColor": [255, 222, 176],
 		
 		"uniqueName": "Patriarchate of Constantinople",
+			"uniqueText": "May choose 1 additional belief of any type when founding a religion",
 		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion",
+					"[+1 Production] from [Plains] tiles [in all cities] <within [2] tiles of a [City center]>",
 			"Holy State"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
@@ -46,6 +48,7 @@
         	"innerColor": [255,255,255],
 		
 		"uniqueName": "Art of War",
+			"uniqueText": "Great General provides double combat bonus, [Great General] is earned [50]% faster",
 		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster",
 			"Isolationist"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
@@ -64,16 +67,17 @@
 		"attacked": "You are a fool who evokes pity. You have brought my hostility upon yourself and your pitiful people.",
 		"defeated": "Strike me down and my soul will torment yours forever, you have won nothing.",
 		"introduction": "Greetings, I am Ramesses the king of Egypt. I am the representative and guardian of my people.",
-
 		"neutralHello": "Greetings.",
 		"hateHello": "State your business.",
-
 		"tradeRequest": "This will benefit both of us.",
 
 		"outerColor": [39,126,205],
 		"innerColor": [255,255,255],
+
 		"uniqueName": "Monument Builders",
+			"uniqueText": "[+20]% Production when constructing [All] wonders [in all cities]",
 		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]",
+					"[+1 Production, +1 Culture] from [Lakes] tiles [in all cities]",
 			"Traditional Kingdom"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
@@ -99,6 +103,7 @@
 		"innerColor": [243, 218, 63],
 		
 		"uniqueName": "Sun Never Sets",
+			"uniqueText": "[+2] Movement <for [Water] units>",
 		"uniques": ["[+2] Movement <for [Water] units>", 
 			"Raider"],
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
@@ -125,7 +130,8 @@
 		"innerColor": [255,0,0],
 		
 		"uniqueName": "Scholars of the Jade Hall",
-        	"uniques": ["[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital",
+			"uniqueText": "[+2 Science] from every specialist [in all cities], [+2 Science] from every [Great Improvement],Receive a tech boost when scientific buildings/wonders are built in capital",
+        "uniques": ["[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital",
 		"Peaceful - Scientific"],
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
@@ -148,6 +154,7 @@
 		"innerColor": [198, 141, 99],
 		
 		"uniqueName": "The Long Count",
+			"uniqueText": "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once. Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
 		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
 			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
 			"Theocracy"],
@@ -174,6 +181,7 @@
 		"innerColor": [90, 0, 10],
 		
 		"uniqueName": "River Warlord",
+			"uniqueText": "Receive triple Gold from Barbarian encampments and pillaging Cities. Defense bonus when embarked <for [All] units>. [{Military} {Land}] units gain the [Amphibious] promotion",
 		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "Defense bonus when embarked <for [All] units>", "[{Military} {Land}] units gain the [Amphibious] promotion",
 			"Peaceful - Scientific"],
 		"cities": ["Gao","Tombouctu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
@@ -200,7 +208,9 @@
 		"innerColor": [249, 247, 3],
 		
 		"uniqueName": "Nobel Prize",
+			"uniqueText": "Gain [90] Influence with a [Great Person] gift to a City-State. When declaring friendship, both parties gain a [10]% boost to great person generation",
 		"uniques": ["Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation",
+			"[+1 Production] from [Tundra] tiles [in all cities]",
 			"Peaceful - Scientific"],
 		"cities": ["Stockholm","Uppsala","Gothenburg","Malmö","Linköping","Kalmar","Skara","Västerås","Jönköping",
             "Visby","Falun","Norrköping","Gävle","Halmstad","Karlskrona","Hudiksvall","Örebro","Umeå","Karlstad",
