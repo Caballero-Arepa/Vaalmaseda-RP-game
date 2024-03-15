@@ -296,17 +296,6 @@
 			"Only available <in cities with a [Palace]>",
 			"Unsellable"]
 	},
-	{
-		"name": "Settler reposition",
-		"cost": 0,
-		"uniqueTo": "Korea",
-		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Free [Settler] appears",
-			"Automatically built in all cities where it is buildable",
-			"Only available <in cities with a [Palace]>",
-			"Unsellable"]
-	},
 	
 //Classification Bonuses
 
