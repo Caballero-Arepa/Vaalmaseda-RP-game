@@ -263,39 +263,6 @@
 			"Will not be displayed in Civilopedia",
 			"Unbuildable"]
 	},
-	{
-		"name": "Sweden Bonus",
-		"cost": 0,
-		"uniqueTo": "Sweden",
-		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Gain [30] [Science]",
-			"Automatically built in all cities where it is buildable",
-			"Only available <in cities with a [Palace]>",
-			"Unsellable"]
-	},
-	{
-		"name": "Byzantium bonus", //rename to: 
-		"cost": 0,
-		"uniqueTo": "Byzantium",
-		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Gain [20] [Science]",
-			"Automatically built in all cities where it is buildable",
-			"Only available <in cities with a [Palace]>",
-			"Unsellable"]
-	},
-	{
-		"name": "Egypt bonus", //rename to: 
-		"cost": 0,
-		"uniqueTo": "Egypt",
-		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Gain [20] [Faith]",
-			"Automatically built in all cities where it is buildable",
-			"Only available <in cities with a [Palace]>",
-			"Unsellable"]
-	},
 	
 //Classification Bonuses
 
