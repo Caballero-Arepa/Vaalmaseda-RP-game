@@ -1,4 +1,13 @@
 [
+	
+	{
+		"name": "Shrine",
+		"faith": 1,
+		"cost": 47,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled"]
+	},
 	//Unique choices
 	{
 		"name": "UB 1", //rename to: Bay Beacons
