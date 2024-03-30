@@ -142,16 +142,6 @@
 		"name": "The Maya",
 		"leaderName": "Pacal",
 		"startBias": ["Jungle"],
-
-        	"declaringWar": "A sacrifice unlike all others must be made!",
-		"attacked": "Muahahahahahaha!",
-		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
-		"introduction": "Greetings, wayward one. I am known as Pacal.",
-		"tradeRequest": "Friend, I believe I may have found a way to save us all! Look, look and accept my offering!",
-		"neutralHello": "A fine day, it helps you.",
-		
-		"outerColor": [81, 24, 94],
-		"innerColor": [198, 141, 99],
 		
 		"uniqueName": "The Long Count",
 			"uniqueText": "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once. Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
