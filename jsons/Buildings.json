@@ -259,10 +259,11 @@
 	{
 		"name": "UB 31", //rename to: 
 		"cost": 0,
-		"uniqueTo": "Egypt",
+		"uniqueTo": "Byzantium",
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"Free [Great Prophet] appears <costs [+135 Faith] stats>",
+			"[+6 Production] <in cities without a [Palace]> <for [2] turns>",
+			"Double movement in [Coast] <for [All] units> <for [2] turns>",
 			"Automatically built in all cities where it is buildable",
 			"Only available <in cities with a [Palace]>",
 			"Unsellable"]
