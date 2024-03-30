@@ -142,6 +142,8 @@
 		"name": "The Maya",
 		"leaderName": "Pacal",
 		"startBias": ["Jungle"],
+		"outerColor": [198, 141, 99],
+		"innerColor": [24, 63, 66],
 		
 		"uniqueName": "The Long Count",
 			"uniqueText": "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once. Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
