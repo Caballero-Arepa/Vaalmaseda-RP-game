@@ -257,18 +257,14 @@
 			"Free [Great Prophet] appears <costs [+135 Faith] stats>",
 			"Automatically built in all cities where it is buildable",
 			"Only available <in cities with a [Palace]>",
-			"Unbuildable"]
+			"Unsellable"]
 	},
 	{
 		"name": "UB 31", //rename to: 
 		"cost": 0,
-		"uniqueTo": "Byzantium",
+		"uniqueTo": "Spectator",
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"[+6 Production] <in cities without a [Palace]>",
-			"Double movement in [Water] <for [Water] units>",
-			"Automatically built in all cities where it is buildable",
-			"Only available <in cities with a [Palace]>",
 			"Unsellable"]
 	},
 	
