@@ -254,7 +254,8 @@
 		"uniqueTo": "Egypt",
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"Free [Great Prophet] appears <costs [+135 Faith] stats>",
+			"Free [Great Prophet] appears",
+			"Gain [-135] [Faith]",
 			"Automatically built in all cities where it is buildable",
 			"Only available <in cities with a [Palace]>",
 			"Unsellable"]
