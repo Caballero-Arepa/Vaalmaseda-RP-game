@@ -251,7 +251,7 @@
 	{
 		"name": "UB 30", //rename to: 
 		"cost": 0,
-		"uniqueTo": "Egypt",
+		"uniqueTo": "Spectator",
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Free [Great Prophet] appears",
@@ -263,10 +263,13 @@
 	{
 		"name": "UB 31", //rename to: 
 		"cost": 0,
-		"uniqueTo": "Spectator",
-		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unsellable"]
+		"uniqueTo": "Byzantium",
+        "uniques": [
+            "Will not be displayed in Civilopedia",
+            "[+4 Production] [in all cities] <in cities without a [Palace]>",
+            "Automatically built in all cities where it is buildable",
+            "Only available <in [Capital] cities>",
+            "Unsellable"]
 	},
 	
 //Classification Bonuses
