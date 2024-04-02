@@ -36,6 +36,23 @@
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
+	//Modified
+
+	{
+		"name": "Dromon",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Byzantium",
+		"replaces": "Trireme",
+		"movement": 4,
+		"strength": 8,
+		"rangedStrength": 10,
+		"cost": 56,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "[+50]% Strength <vs [Water] units>","Double movement in [All]"],
+		"upgradesTo": "Galleass",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "arrow"
+	},
 	//Unique choices
 	{
 		"name": "UU 1", //Dark Voyager
