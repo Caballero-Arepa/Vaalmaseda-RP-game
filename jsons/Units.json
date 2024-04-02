@@ -63,8 +63,8 @@
 		"strength": 10,
 		"cost": 45,
 		"requiredTech": "Sailing",
-		"uniques": ["Can transform to [Settler]",
-			"Cannot enter ocean tiles","Will not be displayed in Civilopedia"],
+		"uniques": ["Cannot enter ocean tiles","Will not be displayed in Civilopedia"],
+		"promotions": ["Logistics"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
