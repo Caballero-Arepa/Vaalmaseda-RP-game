@@ -254,22 +254,18 @@
 		"uniqueTo": "Spectator",
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"Free [Great Prophet] appears",
-			"Gain [-135] [Faith]",
-			"Automatically built in all cities where it is buildable",
-			"Only available <in cities with a [Palace]>",
 			"Unsellable"]
 	},
 	{
 		"name": "UB 31", //rename to: 
 		"cost": 0,
-		"uniqueTo": "Byzantium",
-        "uniques": [
-            "Will not be displayed in Civilopedia",
-            "[+4 Production] [in all cities] <in cities without a [Palace]>",
-            "Automatically built in all cities where it is buildable",
-            "Only available <in [Capital] cities>",
-            "Unsellable"]
+		"uniqueTo": "England",
+        	"uniques": [
+            		"Will not be displayed in Civilopedia",
+            		"[2] free [Atlatlist] units appear",
+            		"Automatically built in all cities where it is buildable",
+            		"Only available <in [Capital] cities>",
+            		"Unsellable"]
 	},
 	
 //Classification Bonuses
