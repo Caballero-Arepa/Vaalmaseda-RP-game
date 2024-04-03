@@ -251,14 +251,6 @@
 	{
 		"name": "UB 30", //rename to: 
 		"cost": 0,
-		"uniqueTo": "Spectator",
-		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unsellable"]
-	},
-	{
-		"name": "UB 31", //rename to: 
-		"cost": 0,
 		"uniqueTo": "England",
         	"uniques": [
             		"Will not be displayed in Civilopedia",
@@ -266,6 +258,14 @@
             		"Automatically built in all cities where it is buildable",
             		"Only available <in [Capital] cities>",
             		"Unsellable"]
+	},
+	{
+		"name": "UB 31", //rename to: 
+		"cost": 0,
+		"uniqueTo": "Spectator",
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Unsellable"]
 	},
 	
 //Classification Bonuses
