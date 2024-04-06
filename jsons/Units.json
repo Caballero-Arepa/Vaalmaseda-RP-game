@@ -343,13 +343,14 @@
 	},
 	{
 		"name": "UU 28",
-		"unitType": "Scout",
-		"movement": 2,
-		"strength": 16,
+		"unitType": "Civilian Water",
+		"uniqueTo": "England",
+		"movement": 4,
 		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
+		"uniques": [
+			"Can instantly construct a [UI 1] improvement <by consuming this unit>",
+			"Uncapturable",
+			"Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
 		"attackSound": "nonmetalhit"
 	}
 ]
