@@ -243,21 +243,20 @@
 	{
 		"name": "UB 29", //rename to: 
 		"cost": 0,
-		"uniqueTo": "Spectator",
+		"uniqueTo": "England",
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"Unbuildable"]
+			"[3] free [Spirit Storm] units appear",
+			"Destroyed when the city is captured",
+			,"Unsellable"]
 	},
 	{
 		"name": "UB 30", //rename to: 
 		"cost": 0,
-		"uniqueTo": "England",
+		"uniqueTo": "Spectator",
         	"uniques": [
             		"Will not be displayed in Civilopedia",
-            		"[2] free [Atlatlist] units appear",
-            		"Automatically built in all cities where it is buildable",
-            		"Only available <in [Capital] cities>",
-            		"Unsellable"]
+            		]
 	},
 	{
 		"name": "UB 31", //rename to: 
