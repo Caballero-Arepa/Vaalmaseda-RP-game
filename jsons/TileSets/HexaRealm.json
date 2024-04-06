@@ -3,5 +3,6 @@
     "fallbackTileSet": "FantasyHex",
     "ruleVariants": {
 	"Mountain+Dragon Peak": ["Dragon Peak"],
+	"Coast+UI 1": ["Coast","Fallout"]
 	}
 }
