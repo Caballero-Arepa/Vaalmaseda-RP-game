@@ -18,7 +18,7 @@
 		"uniques": [
 			"Can be built outside your borders","Adjacent enemy units ending their turn take [15] damage",
 			"Unpillagable",
-			"Will not be displayed in Civilopedia", "Unbuildable"]
+			"Will not be displayed in Civilopedia", "Great Improvement"]
 	},
 	{
 		"name": "UI 2",
