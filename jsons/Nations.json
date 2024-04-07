@@ -17,14 +17,14 @@
         	"neutralHello": "Hello.",
         	"tradeRequest": "Show me what you got and I will show you what I can offer.",
 		
-		"outerColor": [25, 4, 61],
-        	"innerColor": [255, 222, 176],
+		"outerColor": [110, 5, 65],
+        	"innerColor": [250, 240, 230],
 		
 		"uniqueName": "Patriarchate of Constantinople",
 			"uniqueText": "May choose 1 additional belief of any type when founding a religion",
 		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion",
 					"[+1 Production] from [Plains] tiles [in all cities] <within [2] tiles of a [City center]>",
-			"Holy State"],
+			"Religious Expantionist"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
@@ -44,13 +44,13 @@
 		"hateHello": "Oh. It's you?",
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-        	"outerColor": [9, 112, 84],
+        	"outerColor": [112, 9, 9],
         	"innerColor": [255,255,255],
 		
 		"uniqueName": "Art of War",
 			"uniqueText": "Great General provides double combat bonus, [Great General] is earned [50]% faster",
 		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster",
-			"Isolationist"],
+			"Warmonger"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
