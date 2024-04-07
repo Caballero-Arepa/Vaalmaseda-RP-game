@@ -14,7 +14,7 @@
 	// Unique Choices
 	{
 		"name": "UI 1",
-		"terrainsCanBeBuiltOn": ["Land"],
+		"terrainsCanBeBuiltOn": ["Water"],
 		"uniques": [
 			"Can be built outside your borders","Adjacent enemy units ending their turn take [15] damage",
 			"Unpillagable",
