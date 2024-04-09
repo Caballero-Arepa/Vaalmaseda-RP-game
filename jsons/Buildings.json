@@ -246,7 +246,9 @@
 		"uniqueTo": "England",
 		"uniques": [
 			"Will not be displayed in Civilopedia",
-			"[3] free [UU 28] units appear",
+			"Enables [Water] units to enter ocean tiles",
+			"[2] free [Berserker] units appear",
+			"Moves to new capital when capital changes",
 			"Destroyed when the city is captured",
 			"Unsellable"]
 	},
