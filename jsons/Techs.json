@@ -1,5 +1,21 @@
 [
 	{
+		"columnNumber": 2,
+		"era": "Ancient era",
+		"techCost": 55,
+		"buildingCost": 75,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "The Wheel",
+				"row": 7,
+				"prerequisites": ["Animal Husbandry", "Archery"],
+				"uniques": ["Enables Open Borders agreements"],
+				"quote": "'Wisdom and virtue are like the two wheels of a cart.' - Japanese proverb"
+			},
+		]
+	},
+	{
 		"columnNumber": 4,
 		"era": "Classical era",
 		"techCost": 175,
