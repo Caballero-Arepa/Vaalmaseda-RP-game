@@ -7,7 +7,7 @@
 	},
 	{
 		"name": "Byzantium",
-		"leaderName": "Basil the Restorer",
+		"leaderName": "Basil the Blessed",
 		"startBias": ["Coast"],
 		
         	"declaringWar": "Start hearing the voice of the true God, or I will grind you to dust, infidel.",
@@ -140,7 +140,7 @@
     },
 	{
 		"name": "The Maya",
-		"leaderName": "Pacal",
+		"leaderName": "Pacal III",
 		"startBias": ["Jungle"],
 		"outerColor": [198, 141, 99],
 		"innerColor": [24, 63, 66],
