@@ -2,7 +2,7 @@
 	//Unique choices
 	{
         	"name": "UP 1",
-       		"uniques": ["Comment [Shh]"]
+       		"uniques": ["May enter foreign tiles without open borders","Can remove other religions from cities <[1] additional time(s)>"]
 	},
 	{
         	"name": "UP 2",

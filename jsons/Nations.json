@@ -78,6 +78,7 @@
 			"uniqueText": "[+20]% Production when constructing [All] wonders [in all cities]",
 		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]",
 					"[+1 Production, +1 Culture] from [Lakes] tiles [in all cities]",
+					"[+1 Faith] from every [Wonder]",
 			"Traditional Kingdom"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
@@ -158,7 +159,7 @@
     },
 	{
 		"name": "Songhai",
-		"leaderName": "Askia",
+		"leaderName": "AskiKnuta",
 		"startBias": ["Avoid [Tundra]"],
 
         	"declaringWar": "You are an abomination to heaven and earth, the chief of ignorant savages! You must be destroyed!",
@@ -175,6 +176,7 @@
 		"uniqueName": "River Warlord",
 			"uniqueText": "Receive triple Gold from Barbarian encampments and pillaging Cities. Defense bonus when embarked <for [All] units>. [{Military} {Land}] units gain the [Amphibious] promotion",
 		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "Defense bonus when embarked <for [All] units>", "[{Military} {Land}] units gain the [Amphibious] promotion",
+		"All newly-trained [Galleass] units [in all cities] receive the [Bombardment I] promotion",
 			"Peaceful - Scientific"],
 		"cities": ["Gao","Tombouctu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
 			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
@@ -203,6 +205,7 @@
 			"uniqueText": "Gain [90] Influence with a [Great Person] gift to a City-State. When declaring friendship, both parties gain a [10]% boost to great person generation",
 		"uniques": ["Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation",
 			"[+1 Production] from [Tundra] tiles [in all cities]",
+			"[+10]% [Science] [in all cities] <in cities with a [University]> <within [1] tiles of a [Tundra]>",
 			"Peaceful - Scientific"],
 		"cities": ["Stockholm","Uppsala","Gothenburg","Malmö","Linköping","Kalmar","Skara","Västerås","Jönköping",
             "Visby","Falun","Norrköping","Gävle","Halmstad","Karlskrona","Hudiksvall","Örebro","Umeå","Karlstad",

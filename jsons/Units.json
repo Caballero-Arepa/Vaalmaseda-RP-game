@@ -58,7 +58,7 @@
 		"replaces": "Settler",
 		"uniqueTo": "Korea",
 		"unitType": "Civilian",
-		"movement": 3,
+		"movement": 2,
 		"cost": 106,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population",
@@ -67,25 +67,35 @@
 	},
 	{
 		"name": "UU 3",
-		"unitType": "Scout",
+		"replaces": "Pikeman",
+		"uniqueTo": "China",
+		"unitType": "Sword",
 		"movement": 2,
 		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
-		"attackSound": "nonmetalhit"
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>",
+			"[+50]% Strength <vs cities>",
+			"Will not be displayed in Civilopedia"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "UU 4",
-		"unitType": "Scout",
+		"uniqueTo": "The Maya",
+		"replaces": "Spearman",
+		"unitType": "Sword",
 		"movement": 2,
-		"strength": 16,
-		"cost": 110,
-		"requiredTech": "Education",
-		"obsoleteTech": "Rifling",
-		"uniques": ["Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
-		"attackSound": "nonmetalhit"
+		"strength": 10,
+		"rangedStrength": 11,
+		"range": 1,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Will not be displayed in Civilopedia"],
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "UU 5",
@@ -343,12 +353,10 @@
 	{
 		"name": "UU 28",
 		"unitType": "Civilian Water",
-		"uniqueTo": "England",
+		"uniqueTo": "Spectator",
 		"movement": 4,
 		"cost": 110,
 		"uniques": [
-			"Can instantly construct a [UI 1] improvement <by consuming this unit>",
-			"Uncapturable",
 			"Never appears as a Barbarian unit","Unbuildable","Will not be displayed in Civilopedia"],
 		"attackSound": "nonmetalhit"
 	}
