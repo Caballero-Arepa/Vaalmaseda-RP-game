@@ -56,10 +56,9 @@
 	},
 	{
 		"name": "UB 5", //rename to: 
-		"uniqueTo": "Byzantium",
+		"uniqueTo": "Spectator",
 		"cost": 0,
 		"uniques": [
-			"Free [Great Engineer] appears",
 			"Will not be displayed in Civilopedia","Unsellable"]
 	},
 	{
