@@ -207,6 +207,7 @@
 		"uniques": ["Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation",
 			"[+1 Production] from [Tundra] tiles [in all cities]",
 			"[+10]% [Science] [in all cities] <in cities with a [University]> <within [1] tiles of a [Tundra]>",
+			"[-20]% maintenance cost for buildings [in all cities]",
 			"Peaceful - Scientific"],
 		"cities": ["Stockholm","Uppsala","Gothenburg","Malmö","Linköping","Kalmar","Skara","Västerås","Jönköping",
             "Visby","Falun","Norrköping","Gävle","Halmstad","Karlskrona","Hudiksvall","Örebro","Umeå","Karlstad",
