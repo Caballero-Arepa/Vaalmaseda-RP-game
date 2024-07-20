@@ -60,16 +60,30 @@ ReligionIcons/Pachamama
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Crossbowman-Byzantium
+  rotate: false
+  xy: 780, 791
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Swordsman-Byzantium
+  rotate: false
+  xy: 888, 899
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Dragon Peak
   rotate: false
-  xy: 780, 836
+  xy: 1714, 1976
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mount Dragonjaw
   rotate: false
-  xy: 888, 944
+  xy: 212, 60
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
@@ -84,6 +98,13 @@ TileSets/HexaRealm/Tiles/Dragon Peak
 TileSets/HexaRealm/Tiles/Mount Dragonjaw
   rotate: false
   xy: 1517, 1475
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mount Fuji
+  rotate: false
+  xy: 1606, 1848
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
