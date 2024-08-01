@@ -24,7 +24,7 @@
 			"uniqueText": "May choose 1 additional belief of any type when founding a religion",
 		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion",
 					"[+1 Production] from [Plains] tiles [in all cities] <within [2] tiles of a [City center]>",
-			"[+15]% Strength <when adjacent to a [Great Prophet] unit> <for [Wounded] units>",
+			"[+15]% Strength <when adjacent to a [Great Prophet] unit> <for [All] units>",
 			"Religious Expantionist"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
