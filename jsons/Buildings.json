@@ -297,7 +297,7 @@
 			"[3] units cost no maintenance",
 			"[+1 Culture] from every [Walls]",
 			"[+1 Gold, +1 Culture] from each Trade Route",
-			"Only available <for [Traditional Kingdom]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Traditional Kingdom] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	{
@@ -332,7 +332,7 @@
 			"Production to [Science] conversion in cities changed by [+25]%",
 			"[+1 Science, +1 Happiness] from every [Embassy]", //Embassy bonus
 			"[+25]% of excess happiness converted to [Science]", //Peaceful bonus happiness
-			"Only available <for [Peaceful - Scientific]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Peaceful - Scientific] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	{
@@ -358,7 +358,7 @@
 			"[+1 Gold, +1 Culture] from each Trade Route",
 			"[+1 Gold, +1 Faith] from every [Embassy]", //Embassy bonus
 			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
-			"Only available <for [Religious Expantionist]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Religious Expantionist] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	{
@@ -370,7 +370,7 @@
 			"[+1 Gold] from every [Temple]",
 			"[+25]% of excess happiness converted to [Faith]", //Peaceful bonus happiness
 			"Will not be displayed in Civilopedia","Automatically built in all cities where it is buildable",
-			"Only available <for [Theocracy]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Theocracy] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	{
@@ -395,7 +395,7 @@
 			"[Great General] is earned [+20]% faster", //Also general Bonus
 			"No damage penalty for wounded units <for [Land] units>",
 			"[+15]% Strength <vs cities> <when attacking> <for [{Melee} {Land}] units>",
-			"Only available <for [Warmonger]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Warmonger] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	{
@@ -409,7 +409,7 @@
 			"[{Melee} {Water}] units gain the [Coastal Raider I] promotion",
 			"[Privateer] units gain the [Coastal Raider II] promotion",
 			"[Sea Bagger] units gain the [Coastal Raider III] promotion",
-			"Only available <for [Raider]> <in cities with a [Palace]> <in cities without a [Classification]>",
+			"Only available <for [Raider] Civilizations> <in cities with a [Palace]> <in cities without a [Classification]>",
 			"Destroyed when the city is captured","Classification"],
 	},
 	{
