@@ -178,7 +178,7 @@
 		
 		"uniqueName": "River Warlord",
 			"uniqueText": "Receive triple Gold from Barbarian encampments and pillaging Cities. Defense bonus when embarked <for [All] units>. [{Military} {Land}] units gain the [Amphibious] promotion",
-		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "Defense bonus when embarked <for [All] units>", "[{Military} {Land}] units gain the [Amphibious] promotion",
+		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "[+100]% Strength <when defending> <when [Embarked]> <for [All] units>", "[{Military} {Land}] units gain the [Amphibious] promotion",
 		"All newly-trained [Galleass] units [in all cities] receive the [Bombardment I] promotion",
 			"Peaceful - Scientific"],
 		"cities": ["Gao","Tombouctu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
